@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leobardosm
-- 👀 I’m interested in app develpment
+- 👀 I’m interested in app development
 - 🌱 I’m currently learning react native
 - 📫 How to reach me leobardo.segura@harknessinstitute.com
 
